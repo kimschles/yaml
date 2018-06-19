@@ -1,0 +1,31 @@
+# Example YAML file 
+
+# A List of People in Pod2 
+people: 
+  - Corey 
+  - Dave 
+  - Andy 
+  - Kim 
+
+# An Abbreivated List of People in Pod2
+people: ['Corey', 'Dave', 'Andy', 'Kim']
+
+# A Dictionary 
+kim: 
+  name: Kim Schlesinger
+  location: Colorado
+  job: Site Reliability Engineer 
+
+# An Abbreviated Dictionary 
+kim: {name: Kim Schlesinger, location: Colorado, job: Site Reliability Engineer} 
+
+
+# A Dictionary that Includes Formatted Text 
+name: Kim Schlesinger
+prior workplaces: | 
+  Galvanize
+  Teach For America 
+  Poudre School District 
+  Milwaukee Public Schools
+
+
